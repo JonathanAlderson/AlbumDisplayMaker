@@ -11,4 +11,4 @@ I have now put them all up in my room and it looks lovely.
 There are some included examples of some outputs.
 
 
-![1](/13738 x=16 y=7 mean vertical.PNG)
+![1](/13738%20x%3D16%20y%3D7%20mean%20vertical.png)
